@@ -1,2 +1,2 @@
-# Class-21-updated-
-istouching between any objects
+# collisionAlgorithm
+Algorithm to detect collision between two objects
